@@ -1,0 +1,17 @@
+button{
+  border: none;
+  background-color: transparent;
+  outline: none;
+  font-size: 16px;
+}
+
+.box{
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  margin:  230px;
+  color: black;
+}
+
+h3{
+  font-weight: 100px ;
+}
